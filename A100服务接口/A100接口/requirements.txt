@@ -15,7 +15,7 @@ codegen==1.0
 colorama==0.3.7
 configparser==3.5.0b2
 constantly==15.1.0
-cryptography==1.5.3
+cryptography==3.2
 cssselect==1.0.1
 cycler==0.10.0
 decorator==4.0.10
