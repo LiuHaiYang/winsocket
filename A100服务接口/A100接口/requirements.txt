@@ -104,7 +104,7 @@ PyTrie==0.2
 pytz==2016.7
 pywin32==220
 PyX==0.14.1
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==16.0.0
 qtconsole==4.2.1
 queuelib==1.4.2
