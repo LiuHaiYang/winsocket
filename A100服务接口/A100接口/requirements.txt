@@ -102,7 +102,7 @@ python-dateutil==2.5.3
 python-editor==1.0.1
 PyTrie==0.2
 pytz==2016.7
-pywin32==220
+pywin32==301
 PyX==0.14.1
 PyYAML==3.11
 pyzmq==16.0.0
