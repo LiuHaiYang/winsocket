@@ -71,7 +71,7 @@ numpy==1.11.2+mkl
 olefile==0.44
 openpyxl==2.4.0
 pandas==0.19.0
-paramiko==2.0.2
+paramiko==2.10.1
 parsel==1.1.0
 pathtools==0.1.2
 patterns==0.3
