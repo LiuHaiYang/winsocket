@@ -67,7 +67,7 @@ nbconvert==4.2.0
 nbformat==4.1.0
 netaddr==0.7.18
 notebook==4.2.3
-numpy==1.11.2+mkl
+numpy==1.22.0rc1
 olefile==0.44
 openpyxl==2.4.0
 pandas==0.19.0
